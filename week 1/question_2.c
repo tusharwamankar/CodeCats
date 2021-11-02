@@ -16,6 +16,10 @@ int main()
     {
         printf("A is Maximum ");
     }
+    if (a==b)
+    {
+        printf("Both are equal");
+    }
 
     return 0;
 }
